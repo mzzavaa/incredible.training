@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: 'Master AI, Sales, and Innovation – Hands-On Learning'
+        subtitle: AI Booster for Sales and Customer Relationships
         text: >
           Explore a variety of workshops designed to elevate your business
           strategies.
