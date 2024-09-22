@@ -68,8 +68,8 @@ sections:
         title: 500k
         subtitle: AI Booster for Sales and Customer Relationships
         text: >
-          Explore a variety of workshops designed to elevate your business
-          strategies.
+          Harness AI to revolutionize your sales process and create deeper
+          customer connections.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
