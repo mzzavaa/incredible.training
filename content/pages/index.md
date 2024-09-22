@@ -150,7 +150,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Incredible workshops
       color: text-primary
       styles:
         self:
