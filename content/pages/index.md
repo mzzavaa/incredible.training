@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Current Workshops
+    subtitle: Currently
     items:
       - type: FeaturedItem
         title: 500k
