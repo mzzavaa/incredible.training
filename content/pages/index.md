@@ -67,10 +67,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: 'Master AI, Sales, and Innovation – Hands-On Learning'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Explore a variety of workshops designed to elevate your business
+          strategies.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
