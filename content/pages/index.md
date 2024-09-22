@@ -54,7 +54,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Workshops Overview
+      text: Overview
       color: text-dark
       styles:
         self:
