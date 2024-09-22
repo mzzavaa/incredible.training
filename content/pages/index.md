@@ -92,7 +92,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: October
         subtitle: Video Content Creation with AI
         text: >
           Learn how to produce professional-quality video content using AI tools
