@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Elevate Your Skills with Incredible Training
+      label: Welcome to Incredible Training
       color: text-primary
       type: Badge
     elementId: ''
