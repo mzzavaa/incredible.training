@@ -118,10 +118,9 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Process Optimization with AI
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Optimize workflows and streamline your business processes with the
+          power of AI automation.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
