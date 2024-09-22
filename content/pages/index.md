@@ -54,7 +54,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Overview
+      text: Innovative Workshops for Modern Sales and Marketing
       color: text-dark
       styles:
         self:
