@@ -11,9 +11,8 @@ sections:
       Explore our workshops and resources designed to empower your professional
       journey with AI, tech, and sales strategies.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At Incredible Training, we believe in hands-on learning that makes complex
+      technology accessible and impactful for businesses.
     actions:
       - label: Get started
         altText: ''
