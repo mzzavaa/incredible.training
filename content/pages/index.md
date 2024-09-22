@@ -65,7 +65,7 @@ sections:
       success.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: September
         subtitle: AI Booster for Sales and Customer Relationships
         text: >
           Harness AI to revolutionize your sales process and create deeper
