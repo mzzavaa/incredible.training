@@ -116,7 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: November
         subtitle: Process Optimization with AI
         text: >
           Optimize workflows and streamline your business processes with the
