@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: get all resources
+      label: Elevate Your Skills with Incredible Training
       color: text-primary
       type: Badge
     elementId: ''
