@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: From all incredible.trainings workshops
+      text: Elevate Your Skills with Incredible Training
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
