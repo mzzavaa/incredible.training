@@ -60,7 +60,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Currently
+    subtitle: >-
+      Hands-on workshops that bridge the gap between technology and business
+      success.
     items:
       - type: FeaturedItem
         title: 500k
