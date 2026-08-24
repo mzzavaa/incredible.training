@@ -1,0 +1,17 @@
+# Per-site identity. The theme reads only these keys, so nothing in
+# themes/incredible is hardcoded to one domain.
+
+sublabel: "Training"
+booking_url: "https://outlook.office.com/book/hello@lindamohamed.com/"
+strapline: "Courses and cohorts with published dates, prices, and outcomes."
+cta_line_1: "Published dates."
+cta_line_2: "Published prices."
+primary_cta: "See the schedule"
+
+family:
+  - { name: "Company",    url: "https://incredible-company.com" }
+  - { name: "Consulting", url: "https://incredible-consulting.com" }
+  - { name: "Method",     url: "https://incredible-consulting.org" }
+  - { name: "Builders",   url: "https://incredible.builders" }
+  - { name: "Community",  url: "https://incredible.community" }
+  - { name: "Training",   url: "https://incredible.training" }

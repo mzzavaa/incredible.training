@@ -1,0 +1,62 @@
+baseURL = 'https://incredible.training/'
+locale = 'en-us'
+theme = "incredible"
+title = 'Incredible Training'
+# House style: emojis are banned across content, layouts, and config.
+enableEmoji = false
+disableHugoGeneratorInject = true
+disableKinds = ['taxonomy', 'term']
+
+# Brand palette (for the later theming pass):
+#   green #3D8F37 · dark #0a1a08 · white #fff · background #f8f9f6
+#   Font: Inter
+
+[params]
+  description  = "Courses, workshops, and cohort programmes in AI, agents, and cloud, sold with dates, prices, and stated outcomes."
+  tagline      = "Training · Vienna · AI and Cloud"
+  email        = "hello@incredible.training"
+  linkedin     = "https://www.linkedin.com/in/lindamohamed"
+  github       = "https://github.com/linda-mhmd"
+  booking      = "https://outlook.office.com/book/hello@lindamohamed.com/?ismsaljsauthenabled"
+  parent       = "https://incredible-company.com/"
+
+  # Sibling domains in the Incredible portfolio
+  consulting_com = "https://incredible-consulting.com/"
+  consulting_org = "https://incredible-consulting.org/"
+  builders       = "https://incredible.builders/"
+  community      = "https://incredible.community/"
+  founder        = "https://lindamohamed.work/"
+
+# Commercial defaults surfaced on course, pricing, and schedule pages.
+[params.training]
+  currency            = "EUR"
+  vat_note            = "Prices exclude 20 percent Austrian VAT"
+  languages           = "English, German on request"
+  locations           = "Vienna, on site across Europe, remote"
+  default_max_cohort  = 14
+  hands_on_ratio      = "60 percent lab time minimum"
+
+[[menus.main]]
+  name = "Book"
+  url = "/book/"
+  weight = 10
+[[menus.main]]
+  name = "Referrals"
+  url = "/referrals/"
+  weight = 20
+[[menus.main]]
+  name = "Course Catalogue"
+  url = "/courses/"
+  weight = 30
+[[menus.main]]
+  name = "FAQ"
+  url = "/faq/"
+  weight = 40
+[[menus.main]]
+  name = "For Individuals"
+  url = "/for-individuals/"
+  weight = 50
+[[menus.main]]
+  name = "For Teams"
+  url = "/for-teams/"
+  weight = 60

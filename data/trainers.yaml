@@ -1,0 +1,17 @@
+# Trainers. One entry, because one person delivers every course in the
+# catalogue. That is a positioning choice, not a gap: the catalogue is
+# deliberately scoped to what one practitioner can teach properly.
+#
+# Do not add placeholder associate slots. An empty roster of imaginary people
+# reads worse than a roster of one. When a real associate is signed, add them
+# with the same evidence the entry below carries.
+
+- slug: linda-mohamed
+  name: "Linda Mohamed"
+  role: "Trainer and practitioner"
+  based: "Vienna, Austria"
+  languages: [English, German]
+  status: active
+  teaches: [ai-at-work, ai-for-managers, coding-with-agents, building-agent-crews, ai-agents-in-production]
+  credentials: ["AWS Community Hero", "AWS User Group Vienna organiser"]
+  practice_note: "Still delivers client work. Every course comes out of systems actually built, not a curriculum bought in."

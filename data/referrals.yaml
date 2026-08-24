@@ -1,0 +1,57 @@
+# Courses we refer people to rather than teach. Rendered by /referrals/.
+#
+# Rules for this file:
+#   1. Only list training we would genuinely recommend to someone we like.
+#   2. No affiliate links, no commission, no tracking parameters. If that ever
+#      changes, the relationship must be disclosed on the card itself.
+#   3. `url` points at the partner's own page for that course, nothing else.
+#   4. Verify the course still exists before a release. Partners rename and
+#      retire things, and a dead referral is worse than no referral.
+#
+# Last verified against the partner sites: 19 August 2026.
+
+- slug: techworld-with-nana-it-fundamentals
+  partner: "Techworld with Nana"
+  title: "IT Fundamentals"
+  url: "https://www.techworld-with-nana.com/it-beginners-course"
+  level: Beginner
+  covers: "The software development lifecycle end to end, for people entering IT"
+  suits: "Someone who needs the groundwork before any AI or DevOps course makes sense"
+  why: "Assumes nothing and still gets to a working mental model of how software is built and shipped."
+
+- slug: techworld-with-nana-devops
+  partner: "Techworld with Nana"
+  title: "DevOps Bootcamp"
+  url: "https://www.techworld-with-nana.com/devops-bootcamp"
+  level: Beginner
+  duration: "6 months"
+  covers: "From zero to working as a DevOps or cloud engineer"
+  suits: "Career changers, and engineers who need the delivery pipeline properly rather than in fragments"
+  why: "The most complete beginner to employable path we know of, and it is taught by a practitioner."
+
+- slug: techworld-with-nana-devsecops
+  partner: "Techworld with Nana"
+  title: "DevSecOps Bootcamp"
+  url: "https://www.techworld-with-nana.com/devsecops-bootcamp"
+  level: Advanced
+  duration: "4 months"
+  covers: "Security integrated into the delivery pipeline, to senior engineer level"
+  suits: "Engineers already working in DevOps who need the security half properly"
+  why: "Security taught as part of delivery rather than as a separate audit that arrives too late."
+
+- slug: techworld-with-nana-gitlab-cicd
+  partner: "Techworld with Nana"
+  title: "GitLab CI/CD"
+  url: "https://www.techworld-with-nana.com/gitlab-cicd-course"
+  level: Intermediate
+  covers: "Building production CI/CD pipelines in GitLab"
+  suits: "Teams standardising on GitLab who want the pipeline done properly once"
+  why: "Focused and practical. A single tool, covered to production depth."
+
+# Cloud platform training used to sit in our own catalogue and no longer does.
+# It is referred out or delivered as consulting instead of a scheduled course.
+#
+# OPEN: no cloud training partner is named yet. Either add one here after the
+# same check applied above, or delete this entry and let /referrals/ point
+# cloud enquiries at incredible-consulting.com. Do not list a partner we have
+# not actually reviewed.

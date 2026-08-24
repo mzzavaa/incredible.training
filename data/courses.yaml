@@ -1,0 +1,125 @@
+# Course registry. Drives the catalogue cards, the homepage strip, pricing
+# tables, and the course lookup used by data/schedule.yaml.
+# Every page in content/courses/ must have a matching slug here.
+#
+# The catalogue is AI only and delivered by one trainer. Anything outside that
+# is referred out: see data/referrals.yaml.
+#
+# OPEN: prices below are placeholders carried over from the scaffold and have
+# not been confirmed. Set real numbers or remove the field. Do not publish a
+# price that has not been decided.
+
+- slug: ai-at-work
+  course_code: AIW-100
+  title: "AI at Work"
+  subtitle: "Change how your week runs, without writing code"
+  track: ai-at-work
+  level: Foundation
+  status: active
+  duration: "1 day"
+  formats: [one-day, half-day-pair, private]
+  languages: [English, German]
+  max_cohort: 16
+  lab_ratio: 0.5
+  price_from_eur: 650
+  price_from: "EUR 650 per seat"
+  audience: "Anyone who works with documents, email, research, planning, or reporting. No coding."
+  prerequisites: "None"
+  description: "Prompting, working with your own documents, the four workflows that pay off, and verification as a habit."
+  tech: [ChatGPT, Claude, Claude Projects]
+  outcomes:
+    - Rebuild three of your own recurring tasks as repeatable prompts
+    - Judge quickly whether output can be trusted, and know what to never take on trust
+    - Know what must not be pasted into a hosted model
+
+- slug: ai-for-managers
+  course_code: AIM-150
+  title: "AI for Managers and Decision Makers"
+  subtitle: "Decide what to fund, what to refuse, what to ask for"
+  track: ai-at-work
+  level: Foundation
+  status: active
+  duration: "1 day"
+  formats: [one-day, executive-briefing, private]
+  languages: [English, German]
+  max_cohort: 14
+  lab_ratio: 0.3
+  price_from_eur: 950
+  price_from: "EUR 950 per seat"
+  audience: "Managers and decision makers being asked to approve AI work."
+  prerequisites: "None"
+  description: "Reading a proposal, real cost at volume, build versus buy versus wait, and the governance a decision maker is accountable for."
+  tech: [ChatGPT, Claude]
+  outcomes:
+    - Apply a one-page assessment framework to a real proposal
+    - Ask the questions that expose a weak business case early
+    - Know which EU AI Act obligations attach to how you use these systems
+
+- slug: coding-with-agents
+  course_code: CWA-200
+  title: "Coding with Agents"
+  subtitle: "Direct the agent, review what comes back"
+  track: building-with-ai
+  level: Intermediate
+  status: active
+  duration: "2 days"
+  formats: [multi-day, cohort, private]
+  languages: [English, German]
+  max_cohort: 12
+  lab_ratio: 0.7
+  price_from_eur: 1800
+  price_from: "EUR 1,800 per seat"
+  audience: "Engineers who already ship code."
+  prerequisites: "Professional coding in at least one language, daily git use"
+  description: "Context engineering, repo hygiene that makes agents useful, hands-on across the major coding agents, and how to review agent output."
+  tech: [Claude Code, Codex, Kiro, Claude Design]
+  outcomes:
+    - Set up a repository so an agent produces useful work rather than noise
+    - Write a task with acceptance criteria an agent can actually satisfy
+    - Recognise the failure patterns in agent output before merging them
+
+- slug: building-agent-crews
+  course_code: BAC-300
+  title: "Building Agent Crews"
+  subtitle: "From one agent to several that cooperate"
+  track: building-with-ai
+  level: Advanced
+  status: active
+  duration: "2 days"
+  formats: [multi-day, cohort, private]
+  languages: [English, German]
+  max_cohort: 12
+  lab_ratio: 0.7
+  price_from_eur: 1800
+  price_from: "EUR 1,800 per seat"
+  audience: "Engineers and architects who have built something with one agent."
+  prerequisites: "Coding with Agents, or equivalent hands-on experience"
+  description: "Orchestration patterns and their tradeoffs, handoffs and context loss, retrieval, and the failure modes triggered deliberately in a lab."
+  tech: [Kiro crew, Hermes agents, MCP, Claude Code]
+  outcomes:
+    - Choose an orchestration pattern and defend the choice
+    - Recognise when a crew should have stayed a single agent
+    - Break your own crew on purpose and know what each failure looked like
+
+- slug: ai-agents-in-production
+  course_code: AGT-400
+  title: "AI Agents in Production"
+  subtitle: "From a prototype to something a team can operate"
+  track: building-with-ai
+  level: Advanced
+  status: active
+  duration: "3 days"
+  formats: [multi-day, cohort, private]
+  languages: [English, German]
+  max_cohort: 12
+  lab_ratio: 0.65
+  price_from_eur: 2400
+  price_from: "EUR 2,400 per seat"
+  audience: "Teams with a working prototype that now has to run for real."
+  prerequisites: "Building Agent Crews, or an agent system you have already built"
+  description: "Evaluation harnesses, deliberate failure injection, cost engineering, observability, guardrails, and a deployment path."
+  tech: [AWS Bedrock, MCP, OpenTelemetry, Terraform]
+  outcomes:
+    - Build an evaluation harness that catches regressions before release
+    - Measure and control cost per task rather than estimating per month
+    - Trigger every failure mode in staging rather than discovering it in production

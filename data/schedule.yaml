@@ -1,0 +1,53 @@
+# Scheduled runs. Drives /schedule/, the homepage next-dates band, and the
+# enrolment date picker. `course` must match a slug in data/courses.yaml.
+# Private and in-house bookings are never listed here.
+
+- id: AGT-400-2026-09-VIE
+  course: ai-agents-in-production
+  format: multi-day
+  starts: 2026-09-22
+  ends: 2026-09-24
+  location: "Vienna, Austria"
+  venue: "Incredible training room, 1070 Wien"
+  timezone: "Europe/Vienna"
+  language: English
+  seats_total: 14
+  seats_left: 6
+  price_eur: 2400
+  status: confirmed
+  trainers: [linda-mohamed]
+  booking_url: "/book/enrol-in-a-course/"
+
+- id: AIW-100-2026-10-REMOTE
+  course: ai-at-work
+  format: multi-day
+  starts: 2026-10-13
+  ends: 2026-10-14
+  location: Remote
+  venue: "Online, live"
+  timezone: "Europe/Vienna"
+  language: English
+  daily_hours: "09:00 to 16:00 CET"
+  seats_total: 16
+  seats_left: 11
+  price_eur: 1400
+  status: open
+  trainers: [linda-mohamed]
+  booking_url: "/book/enrol-in-a-course/"
+
+- id: AGT-400-2026-11-COHORT
+  course: ai-agents-in-production
+  format: cohort
+  starts: 2026-11-03
+  ends: 2026-12-15
+  location: "Remote with two on-site days in Vienna"
+  timezone: "Europe/Vienna"
+  language: English
+  weekly_commitment: "4 hours live plus 3 hours lab"
+  seats_total: 12
+  seats_left: 2
+  price_eur: 3400
+  status: filling
+  trainers: [linda-mohamed, associate-cloud]
+  capstone: true
+  booking_url: "/book/enrol-in-a-course/"
