@@ -3,6 +3,7 @@ title: "Pricing"
 description: "Published prices for seats, private courses, and programmes. No quote required to see a number."
 weight: 90
 draft: false
+image: "img/mood/calipers.webp"
 ---
 
 **Purpose.** Publishing prices filters buyers before they take up calendar time. This page states what things cost and what changes the number.

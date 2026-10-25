@@ -3,6 +3,7 @@ title: "Upcoming Dates"
 description: "The full list of confirmed and provisional dates for the next six months."
 weight: 81
 draft: false
+image: "img/mood/tourbillon.webp"
 ---
 
 **Purpose.** The detailed listing behind the schedule landing page, for people comparing several options at once.

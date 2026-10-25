@@ -3,6 +3,7 @@ title: "Multi Day Intensive"
 description: "Two or three consecutive days, heavy on labs, ending with something the learner built and can rebuild."
 weight: 22
 draft: false
+image: "img/mood/glass-stack.webp"
 format_code: "INTENSIVE"
 duration: "2 to 3 consecutive days"
 group_size: "8 to 16"

@@ -3,6 +3,7 @@ title: "AI at Work"
 description: "Use ChatGPT and Claude well enough to change how your week actually runs, without needing to write code."
 weight: 20
 draft: false
+image: "img/mood/calipers.webp"
 course_code: "AIW-100"
 level: "Foundation"
 duration: "1 day"

@@ -3,6 +3,7 @@ title: "For Individuals"
 description: "Buying one seat for yourself: what it costs, what you leave with, and how it is different from a team booking."
 weight: 50
 draft: false
+image: "img/mood/gyroscope-small.webp"
 ---
 
 **Purpose.** For an engineer spending their own money or a personal development budget. Everything a self-funded learner needs, without the corporate procurement noise.

@@ -2,7 +2,7 @@
 # themes/incredible is hardcoded to one domain.
 
 sublabel: "Training"
-booking_url: "https://outlook.office.com/book/hello@lindamohamed.com/"
+booking_url: "https://outlook.office.com/book/Letstalk@lindamohamed.com/?ismsaljsauthenabled"
 strapline: "Courses and cohorts with published dates, prices, and outcomes."
 cta_line_1: "Published dates."
 cta_line_2: "Published prices."
@@ -15,3 +15,4 @@ family:
   - { name: "Builders",   url: "https://incredible.builders" }
   - { name: "Community",  url: "https://incredible.community" }
   - { name: "Training",   url: "https://incredible.training" }
+  - { name: "Linda Mohamed", url: "https://lindamohamed.com" }

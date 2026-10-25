@@ -3,6 +3,7 @@ title: "Seats and Enrolment"
 description: "How to book a seat, what happens after you pay, and what is expected of you before day one."
 weight: 51
 draft: false
+image: "img/mood/arc.webp"
 ---
 
 **Purpose.** The mechanics page. Removes every question that would otherwise arrive by email after someone clicks book.

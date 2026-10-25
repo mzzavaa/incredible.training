@@ -3,6 +3,7 @@ title: "Scholarships and Community Rates"
 description: "Reduced and free seats for community organisers, career changers, students, and people between jobs."
 weight: 52
 draft: false
+image: "img/mood/arc.webp"
 ---
 
 **Purpose.** Keeps the door open for people whose employer is not paying. Explains who qualifies and how the seats are allocated, without making anyone beg.

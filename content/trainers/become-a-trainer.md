@@ -3,6 +3,7 @@ title: "Become a Trainer"
 description: "For practitioners who want to teach: what we look for, how the process works, and what it pays."
 weight: 63
 draft: false
+image: "img/mood/optics.webp"
 ---
 
 **Purpose.** Recruitment page for the associate roster. Aimed at senior practitioners who already speak or mentor and want paid delivery work.

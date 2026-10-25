@@ -3,6 +3,7 @@ title: "Associate Trainers"
 description: "The vetted associates who deliver alongside us on larger programmes and specialist tracks."
 weight: 62
 draft: false
+image: "img/mood/optics.webp"
 ---
 
 **Purpose.** Explains how we scale delivery beyond one person without diluting quality, which is the first question a large buyer asks.

@@ -3,6 +3,7 @@ title: "Course Catalogue"
 description: "Every course we run, with level, duration, format, price, and who it is for."
 weight: 10
 draft: false
+image: "img/mood/instrument-case.webp"
 ---
 
 **Purpose.** The catalogue. A learner or a manager lands here to find the one course that closes a real skills gap, and to see immediately what it costs and when it next runs.

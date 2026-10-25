@@ -115,7 +115,7 @@ data/
 | incredibleconsulting.org | Typo-catch and defensive domain. No relationship beyond the portfolio record; nothing here links to it. |
 | incredible.builders | Practitioner and open source community. Where most associate trainers are recruited and where alumni continue after a course. Owns the repositories and contribution guides, so this site links rather than hosts them. |
 | incredible.community | People, events, and membership. Owns the meetup calendar and member directory. Community members get a reduced seat rate; the events calendar there and the course schedule here stay separate. |
-| lindamohamed.work | Founder's personal portfolio. /trainers/linda-mohamed/ summarises the practitioner record and links out for the full speaking and consulting history. |
+| lindamohamed.com | Founder's personal portfolio. /trainers/linda-mohamed/ summarises the practitioner record and links out for the full speaking and consulting history. |
 | ai-workshops.online | Existing sibling property carrying the Three Workshop Method as a consulting-led discovery format. Distinct from this catalogue: that is a delivery engagement shape, this is a productised curriculum. Kept separate to avoid two prices for one thing. |
 
 **Rule of thumb.** This domain sells learning. If the visitor wants someone else to build the

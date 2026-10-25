@@ -3,6 +3,7 @@ title: "Request a Team Quote"
 description: "Tell us the team, the gap, and the window. You get a costed proposal with dates inside two working days."
 weight: 102
 draft: false
+image: "img/mood/pen-and-paper.webp"
 ---
 
 **Purpose.** The main commercial capture form for corporate buyers. Collects enough to produce a real quote without a discovery call.

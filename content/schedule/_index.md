@@ -3,6 +3,7 @@ title: "Schedule"
 description: "Confirmed dates, open cohorts, and seat availability for every course we are running next."
 weight: 80
 draft: false
+image: "img/mood/tourbillon.webp"
 ---
 
 **Purpose.** The page that converts. Someone has decided they want the course and now needs a date they can put in a calendar.

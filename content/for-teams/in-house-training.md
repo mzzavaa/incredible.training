@@ -3,6 +3,7 @@ title: "In House Training"
 description: "Any catalogue course, run privately for one team, on your systems and against your backlog."
 weight: 41
 draft: false
+image: "img/mood/gears.webp"
 offer_code: "INHOUSE"
 group_size: "6 to 16"
 lead_time: "4 to 6 weeks"

@@ -17,7 +17,6 @@ disableKinds = ['taxonomy', 'term']
   email        = "hello@incredible.training"
   linkedin     = "https://www.linkedin.com/in/lindamohamed"
   github       = "https://github.com/linda-mhmd"
-  booking      = "https://outlook.office.com/book/hello@lindamohamed.com/?ismsaljsauthenabled"
   parent       = "https://incredible-company.com/"
 
   # Sibling domains in the Incredible portfolio
@@ -25,7 +24,7 @@ disableKinds = ['taxonomy', 'term']
   consulting_org = "https://incredible-consulting.org/"
   builders       = "https://incredible.builders/"
   community      = "https://incredible.community/"
-  founder        = "https://lindamohamed.work/"
+  founder        = "https://lindamohamed.com/"
 
 # Commercial defaults surfaced on course, pricing, and schedule pages.
 [params.training]

@@ -3,6 +3,7 @@ title: "Skills Assessment"
 description: "A short diagnostic that shows where the team actually is, so the training budget lands on the real gap."
 weight: 43
 draft: false
+image: "img/mood/gears.webp"
 offer_code: "ASSESS"
 duration: "1 to 2 weeks"
 price_from: "EUR 2,800, credited against a programme"

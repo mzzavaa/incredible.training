@@ -3,6 +3,7 @@ title: "Team and Corporate Pricing"
 description: "How private courses, programmes, and seat blocks are priced, including the break-even against open seats."
 weight: 92
 draft: false
+image: "img/mood/calipers.webp"
 ---
 
 **Purpose.** For budget holders modelling a training spend before they ask for a quote. Shows the shape of the number and what moves it.

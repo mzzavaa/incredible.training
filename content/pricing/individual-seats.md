@@ -3,6 +3,7 @@ title: "Individual Seat Pricing"
 description: "Per-seat prices for open courses and cohorts, with discounts and payment options stated up front."
 weight: 91
 draft: false
+image: "img/mood/calipers.webp"
 ---
 
 **Purpose.** For self-funded learners and anyone with a personal development budget. One page, all the numbers.

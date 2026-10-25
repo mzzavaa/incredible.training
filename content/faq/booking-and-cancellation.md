@@ -3,6 +3,7 @@ title: "Booking and Cancellation FAQ"
 description: "Payment, invoicing, transfers, refunds, no-shows, and what happens if a date is cancelled."
 weight: 112
 draft: false
+image: "img/mood/prism.webp"
 ---
 
 **Purpose.** The commercial terms in question and answer form, so nobody has to read a contract to find out whether they can move a booking.

@@ -3,6 +3,7 @@ title: "AI Agents in Production"
 description: "Take an agent system that works on your machine and make it something a team can deploy, evaluate, cost, and operate."
 weight: 60
 draft: false
+image: "img/mood/dividers.webp"
 course_code: "AGT-400"
 level: "Advanced"
 duration: "3 days"

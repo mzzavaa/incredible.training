@@ -3,6 +3,7 @@ title: "Courses We Refer You To"
 description: "The training we do not run ourselves, and who we send people to instead. No commission, no affiliate links."
 weight: 70
 draft: false
+image: "img/mood/sphere.webp"
 ---
 
 **Purpose.** The catalogue here is AI only, taught by one person. Plenty of people arrive needing

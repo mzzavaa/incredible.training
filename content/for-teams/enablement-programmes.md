@@ -3,6 +3,7 @@ title: "Enablement Programmes"
 description: "Multi-course programmes that take a whole team from where it is to where the roadmap needs it."
 weight: 42
 draft: false
+image: "img/mood/gears.webp"
 offer_code: "PROGRAMME"
 duration: "8 to 16 weeks"
 group_size: "8 to 30 across tracks"

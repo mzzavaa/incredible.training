@@ -3,6 +3,7 @@ title: "Learner Support"
 description: "Office hours, alumni access, and what help you get after the course ends."
 weight: 53
 draft: false
+image: "img/mood/arc.webp"
 ---
 
 **Purpose.** Sets expectations about support, which is the most common source of disappointment in paid training.

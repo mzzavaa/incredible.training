@@ -3,6 +3,7 @@ title: "Learning Paths"
 description: "Role-based routes through the catalogue, with sequence, prerequisites, and what you can do at the end."
 weight: 30
 draft: false
+image: "img/mood/arc.webp"
 ---
 
 **Purpose.** For anyone who knows the destination role but not the order of courses. Turns a catalogue into a curriculum.

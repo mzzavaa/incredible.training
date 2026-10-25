@@ -3,6 +3,7 @@ title: "AI for Managers and Decision Makers"
 description: "Decide what to fund, what to refuse, and what to ask for, without needing to build any of it yourself."
 weight: 30
 draft: false
+image: "img/mood/dividers.webp"
 course_code: "AIM-150"
 level: "Foundation"
 duration: "1 day"

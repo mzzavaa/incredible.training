@@ -3,6 +3,7 @@ title: "Technical Leadership Path"
 description: "For managers who approve AI work: judgement, governance, cost, and team readiness."
 weight: 33
 draft: false
+image: "img/mood/pantograph.webp"
 path_code: "PATH-LEAD"
 target_role: "Engineering manager, head of data, product owner"
 total_duration: "1.5 days live plus two clinics"

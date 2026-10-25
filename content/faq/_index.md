@@ -3,6 +3,7 @@ title: "FAQ"
 description: "The questions that arrive before every booking, answered without sales language."
 weight: 110
 draft: false
+image: "img/mood/prism.webp"
 ---
 
 **Purpose.** Removes the pre-purchase email round trip. Grouped by who is asking rather than by topic.

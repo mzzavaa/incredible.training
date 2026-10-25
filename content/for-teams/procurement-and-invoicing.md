@@ -3,6 +3,7 @@ title: "Procurement and Invoicing"
 description: "Everything a purchasing department needs: entity details, terms, VAT handling, and the documents we can supply."
 weight: 44
 draft: false
+image: "img/mood/gears.webp"
 ---
 
 **Purpose.** Removes the friction that stalls signed-off training. Written for procurement and finance, not for learners.

@@ -3,6 +3,7 @@ title: "Funding and Subsidies"
 description: "Third-party funding that can cover part of a training budget in Austria and the wider EU."
 weight: 93
 draft: false
+image: "img/mood/calipers.webp"
 ---
 
 **Purpose.** A lot of training that gets rejected on budget could have been part-funded. This page names the routes and what each requires.

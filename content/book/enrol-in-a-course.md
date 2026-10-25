@@ -3,6 +3,7 @@ title: "Enrol in a Course"
 description: "Reserve a seat on a scheduled date and get the joining pack the same day."
 weight: 101
 draft: false
+image: "img/mood/pen-and-paper.webp"
 ---
 
 **Purpose.** The transactional page for individual enrolment. Should take under three minutes end to end.

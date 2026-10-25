@@ -3,6 +3,7 @@ title: "Coding with Agents"
 description: "Work with Claude Code, Codex, and Kiro as an engineer: what to delegate, how to set up a repo so agents are useful, and how to review what comes back."
 weight: 40
 draft: false
+image: "img/mood/dividers.webp"
 course_code: "CWA-200"
 level: "Intermediate"
 duration: "2 days"

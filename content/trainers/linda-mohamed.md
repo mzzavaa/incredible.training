@@ -3,6 +3,7 @@ title: "Linda Mohamed"
 description: "Lead trainer, AWS Community Hero, and the practitioner behind the AI and cloud curriculum."
 weight: 61
 draft: false
+image: "img/mood/optics.webp"
 role: "Lead trainer and curriculum owner"
 specialism: "AI agents, AWS architecture, evaluation and cost engineering"
 languages: ["English", "German"]
@@ -22,4 +23,4 @@ based_in: "Vienna, Austria"
 - Photo, short bio, and long bio for event organisers to reuse
 
 **Primary CTA.** Request Linda as the named trainer for a private booking.
-**Links to.** /courses/, /for-teams/in-house-training/, and https://lindamohamed.work/ for the full speaking and consulting record.
+**Links to.** /courses/, /for-teams/in-house-training/, and https://lindamohamed.com/ for the full speaking and consulting record.

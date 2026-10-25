@@ -3,6 +3,7 @@ title: "Curriculum and Levels"
 description: "How the curriculum is structured: levels, prerequisites, lab ratios, and how material is kept current."
 weight: 34
 draft: false
+image: "img/mood/pantograph.webp"
 ---
 
 **Purpose.** The transparency page. For L&D leads and procurement who need to see the instructional design before they sign.

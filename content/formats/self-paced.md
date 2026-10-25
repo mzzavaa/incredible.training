@@ -3,6 +3,7 @@ title: "Self Paced"
 description: "Recorded modules, labs, and reference material for people who cannot hold a fixed schedule."
 weight: 24
 draft: false
+image: "img/mood/glass-stack.webp"
 format_code: "SELF"
 duration: "8 to 20 hours per course"
 group_size: "Unlimited seats"

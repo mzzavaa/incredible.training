@@ -3,6 +3,7 @@ title: "Book"
 description: "Three ways to start: take a seat, request a team quote, or talk to us first."
 weight: 100
 draft: false
+image: "img/mood/pen-and-paper.webp"
 ---
 
 **Purpose.** The conversion hub. Routes by intent so nobody has to guess which form applies to them.

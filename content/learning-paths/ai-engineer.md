@@ -3,6 +3,7 @@ title: "AI Engineer Path"
 description: "From first LLM feature to running agent systems in production, in four steps."
 weight: 31
 draft: false
+image: "img/mood/pantograph.webp"
 path_code: "PATH-AI"
 target_role: "AI or backend engineer shipping LLM features"
 total_duration: "7 days live plus one cohort"

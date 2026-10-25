@@ -3,6 +3,7 @@ title: "Courses and Curriculum FAQ"
 description: "Prerequisites, tooling, currency of the material, and how much of the day is hands-on."
 weight: 111
 draft: false
+image: "img/mood/prism.webp"
 ---
 
 **Purpose.** Answers the content questions a technical buyer asks before committing budget or time.

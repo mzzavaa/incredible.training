@@ -3,6 +3,7 @@ title: "Cohort Programme"
 description: "Six to eight weeks, part time, with a group that starts and finishes together and ships something real."
 weight: 23
 draft: false
+image: "img/mood/glass-stack.webp"
 format_code: "COHORT"
 duration: "6 to 8 weeks, part time"
 group_size: "10 to 14"

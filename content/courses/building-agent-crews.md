@@ -3,6 +3,7 @@ title: "Building Agent Crews"
 description: "Move from one agent to several working together: orchestration patterns, handoffs, retrieval, and the failure modes that appear the moment you add a second agent."
 weight: 50
 draft: false
+image: "img/mood/calipers.webp"
 course_code: "BAC-300"
 level: "Advanced"
 duration: "2 days"

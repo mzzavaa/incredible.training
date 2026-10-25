@@ -3,6 +3,7 @@ title: "For Teams"
 description: "Corporate and in-house training: private courses, multi-week programmes, skills assessment, and clean invoicing."
 weight: 40
 draft: false
+image: "img/mood/lattice.webp"
 ---
 
 **Purpose.** The buying page for anyone spending a training budget on other people. Written for L&D leads and engineering managers, not for individual learners.

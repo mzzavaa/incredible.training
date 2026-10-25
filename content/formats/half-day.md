@@ -3,6 +3,7 @@ title: "Half Day Workshop"
 description: "Three to four hours to align a group, brief a leadership team, or introduce one topic properly."
 weight: 21
 draft: false
+image: "img/mood/glass-stack.webp"
 format_code: "HALF"
 duration: "3.5 hours plus breaks"
 group_size: "8 to 24"

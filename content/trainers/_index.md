@@ -3,6 +3,7 @@ title: "Trainers"
 description: "Who teaches, what they have shipped, and the standard every trainer has to meet before they run a room."
 weight: 60
 draft: false
+image: "img/mood/gyroscope.webp"
 ---
 
 **Purpose.** Buyers of technical training want to know who is standing at the front. This page answers that before they ask.
